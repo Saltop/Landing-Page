@@ -1,30 +1,30 @@
+body {
+    margin: 0px;
+}
+
 .header_links {
     background: #1f2937;
     display: flex;
-    color:#f9faf8 ; 
-    Margin: -10px;
+    color:#f9faf8 ;
+    padding-bottom: 90px; 
 }
-
 #header_logo {
 padding-left: 160px;  
 padding-right:  1000px; 
 font-size:  24px;
 }
-
 #header_link_1 {
     padding-right:35px ;
     padding-top: 4px;
     font-size: 18px;
     color:#99999c
 }
-
 #header_link_2 {
     padding-top: 4px;
     padding-right: 35px;
     font-size: 18px;
     color: #99999c;
 }
-
 #header_link_3 {
     padding-top: 4px;
     font-size: 18px;
@@ -32,6 +32,5 @@ font-size:  24px;
 }
 
 .top_half{
-    background-color:#1f2937;
-    margin: -10px
-}
+    background-color: black;
+    color:#f9faf8 ;
