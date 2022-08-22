@@ -89,3 +89,50 @@ font-weight: bold;
     text-align: center;
 }
 
+
+.flex-parent-four-square{
+    display:flex;
+    width: 100%;
+    margin-top: 40px;
+}
+.flex-child-fs-1{
+    flex: ; 
+    border: #3882f6;
+    border-width: 5px;
+    border-style: solid;
+    height: 150px;
+    width: 150px;
+    border-radius: 8px;
+    margin-left: 575px;
+    margin-right: 50px;
+}
+.flex-child-fs-2{
+    flex: ;
+    border:#3882f6;
+    border-width: 5px;
+    border-style: solid;
+    height: 150px;
+    width: 150px;
+    border-radius: 8px;
+    margin-right: 50px;
+}
+.flex-child-fs-3{
+    flex: ;
+    border: #3882f6;
+    border-width: 5px;
+    border-style: solid;
+    height: 150px;
+    width: 150px;
+    border-radius: 4px;
+    margin-right: 50px;
+}
+.flex-child-fs-4{
+    flex: ;
+    border: #3882f6;
+    border-width: 5px;
+    border-style: solid;
+    height: 150px;
+    width: 150px;
+    border-radius: 4px;
+    
+}
